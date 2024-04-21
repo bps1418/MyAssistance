@@ -3,5 +3,5 @@
 agentName = "Rachel"
 model="gpt-3.5-turbo"
 currentUser = ""
-OPENAI_KEY = "sk-proj-3EIwmPWETlirph3RcPq0T3BlbkFJvKDPfYWeWesb9TfTcqkO" #os.["OPENAI_KEY")
+OPENAI_KEY = "" #your apu kry from openai
 intruderWarningCount=0
